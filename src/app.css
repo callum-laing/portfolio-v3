@@ -4,3 +4,18 @@ body {
   height: 100%;
   background-color: #1d2242;
 }
+
+h1 {
+  font-family: "Oregano", cursive;
+  letter-spacing: 2px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+a {
+  color: white;
+}
